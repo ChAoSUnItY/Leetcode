@@ -61,3 +61,24 @@ Commonly implemented in OOPs.
 By parsing specific patterns from pre-defined map entries, we can sum up their corresponding value in a variable and return it. 
 
 Commonly implemented in FPs.
+
+## Used Languages
+- C
+- C++
+- C#
+- Dart
+- Erlang
+- Exilir
+- Go lang
+- Java
+- JavaScript
+- Kotlin
+- Python (including Python3)
+- Ruby
+- Racket
+- Rust
+- Scala
+- Swift
+- TypeScript
+
+**Total: 18**
