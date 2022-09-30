@@ -81,4 +81,4 @@ Commonly implemented in FPs.
 - Swift
 - TypeScript
 
-**Total: 18**
+**Total: 19**
