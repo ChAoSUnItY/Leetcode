@@ -37,11 +37,13 @@ Output: [8,9,9,9,0,0,0,1]
 ## Approaches
 Just do basic math evaluation ;)
 
+### FP solution not available yet
+
 ## Used Languages
 - C
 - C++
 - C#
-- ~~Dart~~
+- Dart
 - ~~Erlang~~
 - ~~Exilir~~
 - Go lang
@@ -54,6 +56,6 @@ Just do basic math evaluation ;)
 - Rust
 - Scala
 - Swift
-- ~~TypeScript~~
+- TypeScript
 
-**Total: 11**
+**Total: 15**
