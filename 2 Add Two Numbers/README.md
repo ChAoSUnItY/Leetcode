@@ -51,7 +51,7 @@ Just do basic math evaluation ;)
 - Python (including Python3)
 - Ruby
 - ~~Racket~~
-- ~~Rust~~
+- Rust
 - Scala
 - Swift
 - ~~TypeScript~~
