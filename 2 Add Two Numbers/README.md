@@ -40,22 +40,22 @@ Just do basic math evaluation ;)
 ### FP solution not available yet
 
 ## Used Languages
-- C
-- C++
-- C#
-- Dart
+- [C](./solution.c)
+- [C++](./solution.cpp)
+- [C#](./solution.cs)
+- [Dart](./solution.dart)
 - ~~Erlang~~
 - ~~Exilir~~
-- Go lang
-- Java
-- JavaScript
-- Kotlin
-- Python (including Python3)
-- Ruby
+- [Go lang](./solution.go)
+- [Java](./solution.java)
+- [JavaScript](./solution.js)
+- [Kotlin](./solution.kt)
+- [Python (including Python3)](./solution.py)
+- [Ruby](./solution.rb)
 - ~~Racket~~
-- Rust
-- Scala
-- Swift
-- TypeScript
+- [Rust](./solution.rs)
+- [Scala](./solution.scala)
+- [Swift](./solution.swift)
+- [TypeScript](./solution.ts)
 
 **Total: 15**
