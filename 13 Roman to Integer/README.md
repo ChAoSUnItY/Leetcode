@@ -63,22 +63,23 @@ By parsing specific patterns from pre-defined map entries, we can sum up their c
 Commonly implemented in FPs.
 
 ## Used Languages
-- C
-- C++
-- C#
-- Dart
-- Erlang
-- Exilir
-- Go lang
-- Java
-- JavaScript
-- Kotlin
-- Python (including Python3)
-- Ruby
-- Racket
-- Rust
-- Scala
-- Swift
-- TypeScript
+- [C](./solution.c)
+- [C++](./solution.cpp)
+- [C#](./solution.cs)
+- [Dart](./solution.dart)
+- [Erlang](./solution.erl)
+- [Exilir](./solution.ex)
+- [Go lang](./solution.go)
+- [Java](./solution.java)
+- [JavaScript](./solution.js)
+- [Kotlin](./solution.kt)
+- [PHP](./solution.php)
+- [Python (including Python3)](./solution.py)
+- [Ruby](./solution.rb)
+- [Racket](./solution.rkt)
+- [Rust](./solution.rs)
+- [Scala](./solution.sc)
+- [Swift](./solution.swift)
+- [TypeScript](./solution.ts)
 
 **Total: 19**
